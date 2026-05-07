@@ -1,0 +1,12 @@
+====================================
+Model: HLRTF Inpainting
+====================================
+
+SAM (degrees): 1.936055
+ERGAS:         15.756675
+SID:           0.005151
+Correlation:   0.998427
+
+---- Diagnostics ----
+Invalid SID pixels: 0
+Total pixels:       16384
